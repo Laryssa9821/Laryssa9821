@@ -58,7 +58,7 @@ HTML, CSS, JavaScript e MySQL
 
 #### 🔗 Acesse o projeto
 
-[Ver repositório no GitHub](COLOQUE-AQUI-O-LINK-DO-REPOSITORIO)
+[Ver repositório no GitHub](https://github.com/Laryssa9821/Projeto-social.git)
 
 ---
 
