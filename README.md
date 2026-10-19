@@ -1,4 +1,4 @@
-# Olá, eu sou a Laryssa! 👋
+# Olá, eu sou a Laryssa Almeida! 👋
 
 ### Estudante de Análise e Desenvolvimento de Sistemas 💻
 
