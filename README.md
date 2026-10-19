@@ -33,9 +33,40 @@ Atualmente, busco aprimorar meus conhecimentos, desenvolver novos projetos e con
 
 ## 📌 Meus projetos
 
-Aqui você encontrará projetos desenvolvidos durante meus estudos, atividades acadêmicas e experiências práticas.
+## 🚀 Projetos em destaque
 
-Cada projeto representa uma etapa do meu aprendizado e da minha evolução como desenvolvedora.
+### 💤 Sleep Well
+
+O **Sleep Well** é um projeto de site institucional com funcionalidades de e-commerce e áreas de gerenciamento administrativo e financeiro.
+
+O projeto foi desenvolvido para oferecer uma experiência completa, desde a apresentação da empresa e de seus produtos até o acompanhamento das vendas e das informações financeiras.
+
+#### ✨ Principais funcionalidades
+
+- 🏢 Site institucional para apresentação da empresa
+- 🛒 E-commerce com exposição e venda de produtos
+- 📦 Gerenciamento de produtos e pedidos
+- ⚙️ Dashboard administrativo
+- 📊 Dashboard financeiro
+- 💰 Acompanhamento de receitas, despesas e saldo
+- 📈 Visualização de informações por meio de indicadores e gráficos
+- 📱 Interface organizada e responsiva
+
+#### 🛠️ Tecnologias utilizadas
+
+HTML, CSS, JavaScript e MySQL
+
+#### 🔗 Acesse o projeto
+
+[Ver repositório no GitHub](COLOQUE-AQUI-O-LINK-DO-REPOSITORIO)
+
+---
+
+### 💻 Próximo projeto
+
+Novos projetos estão sendo desenvolvidos e serão adicionados em breve.
+
+🔗 Acompanhe meus repositórios para conhecer minha evolução!
 
 ---
 
