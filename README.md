@@ -62,6 +62,29 @@ HTML, CSS, JavaScript e MySQL
 
 ---
 
+### 🎉 Brisa Festa e Eventos
+
+Plataforma web desenvolvida para apresentar os serviços de uma empresa de eventos com espaço próprio e facilitar o contato com clientes.
+
+O projeto conta com vitrine de serviços, pacotes personalizados, galeria de fotos, formulário para solicitação de orçamento, newsletter, área de login e painel administrativo para gerenciamento de eventos.
+
+**Principais funcionalidades:**
+
+- Apresentação institucional da empresa
+- Exibição de serviços e pacotes
+- Galeria de eventos realizados
+- Solicitação de orçamento
+- Cadastro para receber novidades
+- Login administrativo
+- Gerenciamento de eventos
+- Integração com banco de dados
+
+**Tecnologias:** HTML, CSS, JavaScript, Python e MySQL
+
+🔗 [Ver repositório](COLOQUE-AQUI-O-LINK-DO-PROJETO)
+
+---
+
 ### 💻 Próximo projeto
 
 Novos projetos estão sendo desenvolvidos e serão adicionados em breve.
