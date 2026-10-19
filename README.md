@@ -81,7 +81,7 @@ O projeto conta com vitrine de serviços, pacotes personalizados, galeria de fot
 
 **Tecnologias:** HTML, CSS, JavaScript, Python e MySQL
 
-🔗 [Ver repositório](COLOQUE-AQUI-O-LINK-DO-PROJETO)
+🔗 [Ver repositório](https://github.com/Laryssa9821/Projeto-Brisa-Festas-e-Eventos.git)
 
 ---
 
